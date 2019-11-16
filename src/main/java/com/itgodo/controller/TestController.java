@@ -19,5 +19,9 @@ public class TestController {
 		list.forEach(o->{System.out.println(o);});
 		
 		System.out.println("game分支填写的内容");
+		
+		System.out.println("项目2master分支填写的内容");
+		
+		System.out.println("项目1master分支提交的内容");
 	}
 }
