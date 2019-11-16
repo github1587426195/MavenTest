@@ -17,5 +17,7 @@ public class TestController {
 		System.out.println(array.toString());
 		
 		list.forEach(o->{System.out.println(o);});
+		
+		System.out.println("game分支填写的内容");
 	}
 }
